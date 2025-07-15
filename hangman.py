@@ -1,7 +1,7 @@
 # Problem Set 2, hangman.py
 # Name: Ranju Sharma
 # Collaborators: None
-# Time spent: 
+# Time spent: 10 hours
 
 import random
 import string
